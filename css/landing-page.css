@@ -68,6 +68,8 @@ h6 {
     /*background: url(../img/profile.jpg) no-repeat right;*/
     /*background-size: 55%;*/
     /*height: 100%;*/
+    width: 466px;
+    height: 700px;
 }
 
 .intro-message {
